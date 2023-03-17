@@ -1,2 +1,4 @@
 build/** linguist-vendored
 devel/** linguist-vendored
+
+*.cmake linguist-vendored
