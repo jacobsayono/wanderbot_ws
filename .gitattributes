@@ -1,4 +1,4 @@
 build/** linguist-vendored
 devel/** linguist-vendored
-src/turtlebot3/** linguist-vendored
-src/turtlebot3_simulations/** linguist-vendored
+src/turtlebot3 linguist-vendored
+src/turtlebot3_simulations linguist-vendored
