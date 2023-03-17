@@ -1,4 +1,7 @@
 build/** linguist-vendored
 devel/** linguist-vendored
-src/turtlebot3 linguist-vendored
-src/turtlebot3_simulations linguist-vendored
+src/turtlebot3/** linguist-vendored
+src/turtlebot3_simulations/** linguist-vendored
+src/CMakeLists.txt linguist-vendored
+src/wanderbot/CMakeLists.txt linguist-vendored
+src/wanderbot/package.xml linguist-vendored
